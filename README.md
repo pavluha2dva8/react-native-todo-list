@@ -1,6 +1,7 @@
 # react-native-todo
 Todo list using react native
 
-## yarn
-
-## expo start
+### Instalation
+# yarn
+# expo start
+# scan qr code with your camera
